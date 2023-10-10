@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sukabumi, Indonesia 🇮🇩
 
 - 💻 I’m working as a Freelance Web Developer at [Platon](http://platon.co.id/) and contributing to frontend and backend for building web applications.
 - 🔥 I'm currently learning Python for machine learning and React Native for mobile apps development ✨
