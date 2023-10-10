@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**fikrisyahid/fikrisyahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  # Hey there, welcome to my github page 👋</h1>
+  
+</div>
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+
+- 🔭 I’m working as a Freelance Web Developer at [Platon](http://platon.co.id/) and contributing to frontend and backend for building web applications.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fikri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fikri-syahid/)
+
+---
+
+### 🛠 Stacks I have used before :
+| Frontend | Backend | Database | CSS Frameworks |
+| :------: | :-----: | :------: | :------------: |
+| React    | Node.js | Prisma   | Mantine        |
+| NextJS   | Express | Sequelize| Material UI    |
+| Chart.js | PHP     | Supabase | Bootstrap      |
+| ApexCharts| CodeIgniter 4| MariaDB|                |
+|          |         | PostgreSQL|                |
+---
+
+### 🔥 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fikrisyahid&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrisyahid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
