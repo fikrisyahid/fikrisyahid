@@ -14,7 +14,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - ✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fikri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fikri-syahid/)
 
 ### 🛠 Stacks I have used before
-<table border="1">
+<table>
   <thead>
     <tr>
       <th colspan="2">Frontend</th>
