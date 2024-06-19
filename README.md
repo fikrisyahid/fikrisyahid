@@ -9,7 +9,7 @@
 
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sukabumi, Indonesia 🇮🇩
 
-- 💻 I’m working as a Freelance Web Developer at [Platon](http://platon.co.id/) and contributing to frontend and backend for building web applications.
+- 💻 I’m working as a Freelance Web Developer.
 - 🔥 I'm currently learning Python for machine learning and React Native for mobile apps development ✨
 - ✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fikri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fikri-syahid/)
 
