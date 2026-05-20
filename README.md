@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -40,11 +38,9 @@
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fikrisyahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrisyahid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="155" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fikrisyahid&theme=tokyonight" height="130" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fikrisyahid&theme=tokyonight" height="130" />
 </div>
 
 <div align="center">
